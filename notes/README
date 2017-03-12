@@ -1,0 +1,9 @@
+Simple API design with nodejs and mongodb
+
+Required modules:
+
+Express
+MongoDB
+BodyParser
+
+setup: npm install --save express mongodb body-parser
